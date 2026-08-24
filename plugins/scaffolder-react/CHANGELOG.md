@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-react
 
+## 2.1.0
+
+### Minor Changes
+
+- 5ff93bf: Added functionality to register a Template Outputs Component in the new frontend system.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/ui@0.17.2
+
 ## 2.0.3
 
 ### Patch Changes

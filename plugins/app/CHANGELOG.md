@@ -1,5 +1,13 @@
 # @backstage/plugin-app
 
+## 0.5.3
+
+### Patch Changes
+
+- f914343: Fixed toast text layout when the application does not define a global line height.
+- Updated dependencies
+  - @backstage/ui@0.17.2
+
 ## 0.5.2
 
 ### Patch Changes
